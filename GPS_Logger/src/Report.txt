@@ -1,0 +1,31 @@
+Species: Sea lion Sex: Female Weight: 22.0 Number of Spots: 22
+GPS:
+
+Species: Penguins Sex: Female Weight: 11.0 Blood Pressure: 11.0
+GPS:
+
+
+Species: Sea lion Sex: Male Weight: 22.0 Number of Spots: 22
+GPS:
+
+
+Species: Penguins Sex: Male Weight: 11.0 Blood Pressure: 33.0
+GPS:
+1.1111111,1.1111111
+1.1111111,1.1111111
+1.1111111,1.1111111
+1.1111111,1.1111111
+1.1111111,1.1111111
+
+Species: Penguins Sex: Female Weight: 22.0 Blood Pressure: 22.2
+GPS:
+
+
+Species: Penguins Sex: Female Weight: 22.0 Blood Pressure: 22.2
+GPS:
+
+
+Species: Penguins Sex: Male Weight: 11.0 Blood Pressure: 11.0
+GPS:
+
+

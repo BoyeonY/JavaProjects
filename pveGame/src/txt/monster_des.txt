@@ -1,0 +1,3 @@
+Monster possesses immense strength.
+weapon: hammer.
+Attack point = strength

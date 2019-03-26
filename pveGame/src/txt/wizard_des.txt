@@ -1,0 +1,4 @@
+Wizard has high intelligence.
+Wizard is good at long distance attack.
+weapon: Magic staff 
+Attack point = intelligence

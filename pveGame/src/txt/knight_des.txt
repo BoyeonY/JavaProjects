@@ -1,0 +1,3 @@
+Knight has high dexterity.
+Weapon: polearms.
+Attack point = Dexterity 
